@@ -73,6 +73,7 @@
     "fill-range": "^7.0.1",
     "find-up": "^4.1.0",
     "form-data": "^3.0.1",
+    "fs": "^0.0.1-security",
     "fs.realpath": "^1.0.0",
     "fsevents": "^2.3.2",
     "function-bind": "^1.1.1",
