@@ -17,17 +17,18 @@ app.use(express.static('public'));
 app.get('/', (req, res) =>
 res.sendFile(path.join(__dirname, '/public/index.html'))
 );
+app.get('/', (req, res) => res.send('Visit http://localhost:3005/api'));
 // GET request for note
 app.get('/api/note', (req, res)=>{
     res.json(`${req.method} request received to get note`)
     console.info(`${req.method}request recieived to get note`)
 });
 app.listen(PORT, ()=> {
-    console.log("Server is running")
+    console.log(`Server is running at http://localhost:${PORT}🚀`)
 });
 
 
-app.listen(PORT, () =>
-  console.log(`Example app listening at http://localhost:${PORT}`)
-);
+// app.listen(PORT, () =>
+//   console.log(`Example app listening at http://localhost:${PORT}`)
+// );
 
