@@ -28,7 +28,7 @@ app.use('/api', dbRoute);
 //     console.info(`${req.method}request recieived to get note`)
 // });
 app.listen(PORT, ()=> {
-    console.log(`Server is running at http://localhost:${PORT}🚀`)
+    console.log(`Server is running at http://localhost:${PORT}`)
 });
 
 // request('./public/routes/dbRoute')
