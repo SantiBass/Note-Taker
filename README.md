@@ -4,4 +4,5 @@ To cross the valley of sorrows create a Note Tracker to feed the beast in the la
 
 ![NoteTaker-ScreenShot1 ](https://user-images.githubusercontent.com/90415841/146714036-5757f9a6-f921-46ba-b95b-1901cc55dbcd.png)
 
-![NoteTaker-ScreenShot2](https://user-images.githubusercontent.com/90415841/146714018-b7456f3b-b226-4209-9bf1-ab78b2d690a7.png)
+
+![NoteTaker-ScreenShot2](https://user-images.githubusercontent.com/90415841/146714595-432ee070-67a9-4b36-9654-93114f9b63a0.png)
