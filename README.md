@@ -42,4 +42,11 @@ You can find information about MIT license here: https://choosealicense.com/lice
 ## Questions.
 
 ### These are screen shots of the application  hosted by [Heroku](https://notetaker2021-1.herokuapp.com/). [Heroku](https://notetaker2021-1.herokuapp.com/) is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
+<<<<<<< HEAD
+=======
+![NoteTaker-ScreenShot1 ](https://user-images.githubusercontent.com/90415841/146716430-f4b08056-de9a-45d7-9a1e-f010f10e7845.png)
+
+![NoteTaker-ScreenShot2](https://user-images.githubusercontent.com/90415841/146716452-1bf343dc-13c0-46a5-805a-b52495120291.png)
+
+>>>>>>> 963761b57874355b03be2c7ed9be914e3813d656
 
