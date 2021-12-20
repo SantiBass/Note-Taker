@@ -1,1 +1,1 @@
-# Note Taker Starter Code
+To cross the valley of sorrows create a Note Tracker to feed the beast in the lake of fire
