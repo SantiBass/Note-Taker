@@ -8,23 +8,27 @@
 
 ## Table of Content
   
-  * [Installation](#installation)
+  * [Installation.](#installation)
   
-  * [Usage](#usage
-)
+  * [Usage.](#usage)
   
-  *  [License](#license)
+  *  [License.](#license)
 
-  * [Contributing](#contributing)
+  * [Contributing.](#contributing)
 
-  * [Test](#test)
+  * [Test.](#test)
 
-  * [Questions](#questions)
+  * [Screenshots.](#screenshots)
+
+  * [Questions.](#questions)
   
-## Installation
+## Installation.
 ### For this application, installation of Node.js, Heroku, Express.js, uuid, and path is required.   
-## Usage
-### This application is used to take notes. The user will be able to enter a title and text. Also, to delete a note, the user can press the delete button, which is the red bin icon, and refresh the browser. To add a new note, the user can simply press the plus sign button. 
+
+## Usage.
+
+### This application is used to take notes. The user will be able to enter a title and text. Also, to delete a note, the user can press the delete button, which is the red bin icon, and refresh the browser. To add a new note, the user can simply press the plus sign button. You can see the application in action by clicking this link: [Note Taker.](https://notetaker2021-1.herokuapp.com/)
+
 
 ## Credits.
 
@@ -39,14 +43,17 @@ You can find information about MIT license here: https://choosealicense.com/lice
 ## Tests.
 ### N/A.
 
-## Questions.
 
-### These are screen shots of the application  hosted by [Heroku](https://notetaker2021-1.herokuapp.com/). [Heroku](https://notetaker2021-1.herokuapp.com/) is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
-<<<<<<< HEAD
-=======
+
+## Screenshots.
+### These are screenshots of the application  hosted by [Heroku](https://devcenter.heroku.com/articles/heroku-cli). [Heroku](https://devcenter.heroku.com/articles/heroku-cli) is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
 ![NoteTaker-ScreenShot1 ](https://user-images.githubusercontent.com/90415841/146716430-f4b08056-de9a-45d7-9a1e-f010f10e7845.png)
 
 ![NoteTaker-ScreenShot2](https://user-images.githubusercontent.com/90415841/146716452-1bf343dc-13c0-46a5-805a-b52495120291.png)
 
->>>>>>> 963761b57874355b03be2c7ed9be914e3813d656
+## Questions.
+
+### If you have questions please send email at: sibarraryan@gmail.com
+### You can use the application by using this link: https://notetaker2021-1.herokuapp.com/
+### Also, you can visit my GitHub: [SantiBass.](https://github.com/SantiBass)
 
