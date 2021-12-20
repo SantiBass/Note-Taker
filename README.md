@@ -6,7 +6,7 @@
 ### The main purpose of this application is to take notes from the user and save them.  
 ### The user can type in a title and text for each note. These notes can be saved or deleted. This application has a starter code that deals with the visual part of the application. And, I only had to work on the back end. For example, I created the routes and the server js file.   
 
-## Table of Content
+## Table of Content.
   
   * [Installation.](#installation)
   
@@ -54,6 +54,6 @@ You can find information about MIT license here: https://choosealicense.com/lice
 ## Questions.
 
 ### If you have questions please send email at: sibarraryan@gmail.com
-### You can use the application by using this link: https://notetaker2021-1.herokuapp.com/
+### You can use this application by using this link: https://notetaker2021-1.herokuapp.com/
 ### Also, you can visit my GitHub: [SantiBass.](https://github.com/SantiBass)
 
