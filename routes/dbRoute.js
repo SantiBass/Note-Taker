@@ -1,13 +1,13 @@
 const fs = require("fs");
-const app = require("express").Router();
+const noteApp = require("express").Router();
 const { v1: uuidv1 } = require("uuid");
 
-app.get("/notes", (req, res) => {
+noteApp.get("/notes", (req, res) => {
     var data = JSON.parse(fs.readFileSync("./db/db.json", "utf-8"))
     res.json(data);
 });
 
-app.post("/notes", (req, res) => {
+noteApp.post("/notes", (req, res) => {
     const newNote = req.body;
     newNote.id = uuidv1()
     let data = JSON.parse(fs.readFileSync("./db/db.json", "utf-8"))
@@ -16,7 +16,7 @@ app.post("/notes", (req, res) => {
     res.json(data);
 });
 
-app.delete("/notes/:id", (req, res) => {
+noteApp.delete("/notes/:id", (req, res) => {
     let data = JSON.parse(fs.readFileSync("./db/db.json", "utf-8", (err) => {
         if (err) throw err
     }))
@@ -37,4 +37,4 @@ let newData = data.filter(note => note.id != req.params.id)
 
 
 });
-module.exports = app;
+module.exports = noteApp;
