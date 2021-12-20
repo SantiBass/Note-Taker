@@ -32,7 +32,7 @@
 
 ## Credits.
 
-### TA's and AskBSC.
+### TA's and AskBSC. They were a great contributors  to this project.
 
 ## License.
 
